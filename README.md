@@ -1,6 +1,6 @@
 # Polynomial Function Approximation via Taylor Series
 
-## 📊 Project Overview
+## Project Overview
 
 The goal of this project is to demonstrate **Taylor's Theorem** by implementing an approximation engine, which proves that complex, non-polynomial functions can be expressed as infinite polynomials.
 
@@ -8,7 +8,7 @@ This project uses Calculus to derive the exact polynomial construction of a func
 
 ---
 
-## 🧠 Theoretical Background
+## Theoretical Background
 
 ### Taylor's Theorem
 
@@ -93,7 +93,7 @@ for some real number $z$ between $x$ and $x_0$. As $N \to \infty$, this error te
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 | Limitation | Description                                                                                                                                                                                   |
 | :--- |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -103,7 +103,7 @@ for some real number $z$ between $x$ and $x_0$. As $N \to \infty$, this error te
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 * Python 3.8+
@@ -128,7 +128,7 @@ for some real number $z$ between $x$ and $x_0$. As $N \to \infty$, this error te
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 * `main.ipynb`: The main analysis notebook.
 * `requirements.txt`: Python package dependencies.
