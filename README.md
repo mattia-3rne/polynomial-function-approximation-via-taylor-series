@@ -21,7 +21,7 @@ P_N(x) = \sum_{n=0}^{N} \frac{f^{(n)}(x_0)}{n!} (x - x_0)^n
 $$
 
 Where:
-* $f^{(n)}(x_0)$ is the $n$-th derivative of $f$ evaluated at the center $x_0$.
+* $f^{\text{(n)}}(x_0)$ is the $n$-th derivative of $f$ evaluated at the center $x_0$.
 * $N$ is the degree of the polynomial approximation.
 
 ---
